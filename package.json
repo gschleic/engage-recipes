@@ -1,0 +1,9 @@
+{
+  "name": "engage-templates",
+  "version": "0.0.6",
+  "description": "Engage Templates",
+  "main": "index.js",
+  "repository": "https://github.com/gschleic/engage-templates.git",
+  "author": "xpertana <glenn@xpertana.com>",
+  "license": "ISC"
+}
