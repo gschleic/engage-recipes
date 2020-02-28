@@ -1,7 +1,7 @@
 {
-  "name": "engage-templates",
+  "name": "engage-recipes",
   "version": "0.0.6",
-  "description": "Engage Templates",
+  "description": "Engage Recipes",
   "main": "index.js",
   "repository": "https://github.com/gschleic/engage-templates.git",
   "author": "xpertana <glenn@xpertana.com>",

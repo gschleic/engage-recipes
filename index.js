@@ -3,6 +3,6 @@ const conf = new Configstore("engage");
 
 module.exports = async toolbox => {
   toolbox.recipes = async () => {
-    toolsbox.print.info("this is a recipe");
+    toolbox.print.info("this is a recipe");
   };
 };
